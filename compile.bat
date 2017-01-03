@@ -1,0 +1,1 @@
+pyinstaller banana_split.py -i banana.ico --onefile
