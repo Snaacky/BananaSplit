@@ -1,1 +1,1 @@
-pyinstaller banana_split.py -i banana.ico --onefile
+pyinstaller src/banana_split.py --onefile --clean --icon img/banana.ico
